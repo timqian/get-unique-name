@@ -1,0 +1,25 @@
+{
+  "name": "get-unique-name",
+  "version": "1.0.0",
+  "description": "generate a unique name used for creating tmp folder/file; with no dependency, using Date and Math.random",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timqian/unique-name.git"
+  },
+  "keywords": [
+    "unique",
+    "name",
+    "filename",
+    "foldername"
+  ],
+  "author": "timqian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/timqian/unique-name/issues"
+  },
+  "homepage": "https://github.com/timqian/unique-name#readme"
+}
