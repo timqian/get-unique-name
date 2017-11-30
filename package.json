@@ -1,7 +1,7 @@
 {
   "name": "get-unique-name",
-  "version": "1.0.1",
-  "description": "generate a unique name used for creating tmp folder/file; with no dependency, using Date and Math.random",
+  "version": "1.0.3",
+  "descrition": "generate a unique name used for creating tmp folder/file; with no dependency, using Date and Math.random",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
